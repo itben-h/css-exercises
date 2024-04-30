@@ -1,0 +1,19 @@
+.big {
+    font-size: 24px;
+}
+
+p {
+    background-color: #fda7a8;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#a {
+    color: #0b24fb;
+    font-size: 36px;
+}
+
+#b {
+    background-color: #85fd86;
+    font-size: 24px;
+    font-weight: bold;
+}
